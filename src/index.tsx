@@ -1,4 +1,4 @@
-import React, { StrictMode } from 'react'
+import React from 'react'
 import ReactDOM from 'react-dom'
 import { ResetCSS } from '@pancakeswap-libs/uikit'
 import GlobalStyle from './style/Global'
